@@ -3,10 +3,11 @@
 A text-to-speech (TTS) synthesis pipeline that leverages a multi-agent orchestration loop to optimize raw user text inputs before executing localized voice cloning.
 
 
-<p align="left">
-  <strong>🔊 Cloned Audio Walkthrough (Qwen-2.5 & XTTS-v2):</strong><br>
-  <audio src="demo.wav" controls></audio>
-</p>
+### 🔊 Audio Pipeline Documentation Walkthrough
+Click the play button below to hear the factual voice synthesis output (Qwen-2.5 & XTTS-v2):
+
+<video src="demo.wav" controls width="100%" height="45"></video>
+
 
 
 Because this pipeline depends on dedicated CUDA hardware to execute deep learning models, a live working instance is hosted on shared cloud infrastructure:
