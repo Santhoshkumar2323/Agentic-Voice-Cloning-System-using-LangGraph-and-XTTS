@@ -1,0 +1,14 @@
+torch
+torchaudio
+transformers>=4.58.0
+accelerate
+bitsandbytes
+coqui-tts[codec]
+noisereduce
+pydub
+librosa
+soundfile
+pyloudnorm
+gradio
+spaces
+langgraph
