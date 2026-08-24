@@ -4,8 +4,8 @@ A text-to-speech (TTS) synthesis pipeline that leverages a multi-agent orchestra
 
 
 <p align="left">
-  <strong>🔊 Technical Pipeline Audio Walkthrough (Qwen-2.5 & XTTS-v2):</strong><br>
-  <audio src="demo_voice.wav" controls></audio>
+  <strong>🔊 Cloned Audio Walkthrough (Qwen-2.5 & XTTS-v2):</strong><br>
+  <audio src="demo.wav" controls></audio>
 </p>
 
 
