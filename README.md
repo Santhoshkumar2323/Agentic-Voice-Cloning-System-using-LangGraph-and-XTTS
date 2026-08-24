@@ -4,9 +4,11 @@ A text-to-speech (TTS) synthesis pipeline that leverages a multi-agent orchestra
 
 
 ### 🔊 Audio Pipeline Documentation Walkthrough
-Click the play button below to hear the factual voice synthesis output (Qwen-2.5 & XTTS-v2):
 
-<video src="demo.wav" controls width="100%" height="45"></video>
+Listen to the factual pipeline voice output overview (Qwen-2.5 & XTTS-v2):
+
+👉 **[Click Here to Listen to the Audio Demo](demo.wav)**
+
 
 
 
