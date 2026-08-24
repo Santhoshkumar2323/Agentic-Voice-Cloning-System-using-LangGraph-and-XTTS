@@ -2,14 +2,13 @@
 
 A text-to-speech (TTS) synthesis pipeline that leverages a multi-agent orchestration loop to optimize raw user text inputs before executing localized voice cloning.
 
-## Live Showroom
 Because this pipeline depends on dedicated CUDA hardware to execute deep learning models, a live working instance is hosted on shared cloud infrastructure:
 
-👉 **[Click Here to Test the Live Application] (https://huggingface.co/spaces/santhosh2323/voice-cloner)**
+👉 **[Click Here for Live Application] (https://huggingface.co/spaces/santhosh2323/voice-cloner)**
 
 ---
 
-## 🛠️ The Architecture: How It Works Under the Hood
+## 🛠️ The Architecture: How It Works
 
 This project implements a **decoupled processing architecture** split into three distinct pipeline phases:
 
