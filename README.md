@@ -41,15 +41,13 @@ To allow local inference generation inside constrained hardware container bounda
 
 ## Local Configuration Guide
 
-To review the structural syntax and variables locally on your machine environment:
-
-1. Clone the project source file structure:
+1. Clone the project file structure:
    ```bash
    git clone https://github.com
    cd YOUR_REPO_NAME
    ```
 
-2. Pin down required third-party software bindings to your virtual environment:
+2. Pin down requirements to your virtual environment:
    ```bash
    pip install -r requirements.txt
    ```
