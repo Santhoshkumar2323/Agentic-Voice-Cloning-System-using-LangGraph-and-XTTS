@@ -7,7 +7,7 @@ A text-to-speech (TTS) synthesis pipeline that leverages a multi-agent orchestra
 
 Listen to the factual pipeline voice output overview (Qwen-2.5 & XTTS-v2):
 
-👉 **[Click Here to Listen to the Audio Demo](demo.wav)**
+👉 **[Click Here to Listen to the Audio Demo](demo-audio.mp3)**
 
 
 
